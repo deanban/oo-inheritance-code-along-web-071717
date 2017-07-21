@@ -17,4 +17,4 @@ class Vehicle
  
 end
 
-enzo = Vehicle.new
+enzo = Vehicle.new(20,20)
