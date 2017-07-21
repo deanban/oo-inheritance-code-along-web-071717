@@ -16,3 +16,5 @@ class Vehicle
   end
  
 end
+
+enzo = Vehicle.new
